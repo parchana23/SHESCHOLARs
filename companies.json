@@ -1,0 +1,28 @@
+[
+  {
+    "companyName": "xyz",
+    "email": "parchanaraj23@gmail.com",
+    "contactPerson": "xyz",
+    "phone": "1000",
+    "website": "html.com",
+    "registrationNumber": "12345678",
+    "gst": "23456",
+    "password": "$2b$10$pVse4ssyjtNmW2Y.h98QD.dkFT5L.fm6R5ZfUdQWzKmCLQFZxbuTi",
+    "logoPath": "1772472963805-WhatsApp Image 2026-03-02 at 17.19.00.jpeg",
+    "csrCertPath": "1772472963807-WhatsApp Image 2026-03-02 at 17.58.03.jpeg",
+    "id": 1,
+    "verification_status": "pending"
+  },
+  {
+    "companyName": "xyz",
+    "email": "parchanaaaraj23@gmail.com",
+    "contactPerson": "xyz",
+    "phone": "1000",
+    "website": "html.com",
+    "registrationNumber": "12345678",
+    "gst": "23456",
+    "password": "$2b$10$BYZsueo86KU5ncNaos0NYOdlj.D2jTltiz/.VQT9NIDMaCU4XQ.Ea",
+    "id": 2,
+    "verification_status": "pending"
+  }
+]

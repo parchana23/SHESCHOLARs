@@ -1,0 +1,14 @@
+[
+  {
+    "email": "test@gmail.com",
+    "fullName": "Test User",
+    "skills": [
+      {
+        "id": 1772473647598,
+        "name": "PowerShell",
+        "addedAt": "2026-03-02T17:47:27.598Z"
+      }
+    ],
+    "certificates": []
+  }
+]

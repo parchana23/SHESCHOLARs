@@ -1,0 +1,14 @@
+[
+  {
+    "title": "techvision",
+    "description": "java",
+    "amount": "10000",
+    "seats": "5",
+    "deadline": "2025-02-23",
+    "minMarks": "50",
+    "educationLevel": "undergraduate",
+    "requiredCourse": "be cse",
+    "yearOfStudy": "2nd",
+    "id": 1
+  }
+]
